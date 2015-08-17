@@ -1,0 +1,2061 @@
+[33mcommit e68643f6aef9db125d514929b970af9543dc3175[m
+Merge: b7e6c11 8d865f1
+Author: MineRobber9000 <kd2bwz@yahoo.com>
+Date:   Sun Jul 19 14:52:08 2015 -0400
+
+    Merge branch 'master' of https://github.com/MineRobber9000/MineRobber9000.github.io
+
+[33mcommit b7e6c11a4c87d2f65b686d50c55159f9fc55dabc[m
+Author: MineRobber9000 <kd2bwz@yahoo.com>
+Date:   Sun Jul 19 14:51:10 2015 -0400
+
+    Posted article about Nesbox
+
+[33mcommit 8d865f1cf25e62169a92cf1e9b8902b3855709a6[m
+Author: MineRobber9000 <kd2bwz@yahoo.com>
+Date:   Fri Jun 19 16:05:28 2015 -0400
+
+    Delete README.md
+
+[33mcommit 03a7f0b861b0b489ab0ab407f9129367529465b4[m
+Author: MineRobber9000 <kd2bwz@yahoo.com>
+Date:   Fri Jun 19 16:05:18 2015 -0400
+
+    Delete gg.html
+
+[33mcommit b5cdbbbff47fb4bba58e644615936071fbb19daa[m
+Author: MineRobber9000 <kd2bwz@yahoo.com>
+Date:   Fri Jun 19 16:05:01 2015 -0400
+
+    Create gg.html
+
+[33mcommit 7b0356942552811ab012815e1b0f984372b33bc9[m
+Author: MineRobber9000 <kd2bwz@yahoo.com>
+Date:   Sun May 31 05:04:06 2015 -0400
+
+    Create thepokebot.md
+
+[33mcommit 9dcf4ef0491e3963743f73598f4e86c1903c016c[m
+Author: MineRobber9000 <kd2bwz@yahoo.com>
+Date:   Sun May 31 03:39:42 2015 -0400
+
+    Create README.md
+
+[33mcommit eccc20b52eb2d6242d9cff3e239d57ba11791d80[m
+Author: MineRobber9000 <kd2bwz@yahoo.com>
+Date:   Sat May 30 23:20:08 2015 -0400
+
+    Delete 2014-3-3-Hello-World.md
+
+[33mcommit f8db7165169358ea5440159b9ee1c47f9008056f[m
+Author: MineRobber9000 <kd2bwz@yahoo.com>
+Date:   Sat May 30 23:18:56 2015 -0400
+
+    Make sure my post from previous commit works
+
+[33mcommit 93e75dbe9896f12f80ead3c7aecdcc915b03e1ce[m
+Author: MineRobber9000 <kd2bwz@yahoo.com>
+Date:   Sat May 30 23:18:22 2015 -0400
+
+    Create new post
+
+[33mcommit a1f8e948b1cc5d841d5a16b83bcb02b0b587a217[m
+Author: MineRobber9000 <kd2bwz@yahoo.com>
+Date:   Sat May 30 23:08:41 2015 -0400
+
+    Update _config.yml
+
+[33mcommit 2ba07704c142574025751f6a697728ca0f0b63a9[m
+Author: MineRobber9000 <kd2bwz@yahoo.com>
+Date:   Sat May 30 18:13:00 2015 -0400
+
+    Update _config.yml
+
+[33mcommit fb2f50ba6fab860134c416cc097707da159d8c6f[m
+Merge: 0644ab5 ac82e68
+Author: Barry Clark <barry@barryclark.co>
+Date:   Wed May 13 15:39:08 2015 -0400
+
+    Merge pull request #187 from frenchie16/jekyll-now/master
+    
+    Exclude CNAME from the hosted site
+
+[33mcommit ac82e6802c80841607a48f2907c20380844ecb64[m
+Author: John French <jdaviesf7@gmail.com>
+Date:   Wed May 13 00:55:00 2015 -0400
+
+    Exclude CNAME
+    
+    There’s no reason you’d want to be able to access the CNAME file on the
+    hosted site.
+
+[33mcommit 0644ab5e321175df187afb839e3aea1e8f00ecc0[m
+Merge: c6b6dfb 33d1035
+Author: Barry Clark <barry@barryclark.co>
+Date:   Thu May 7 09:49:34 2015 -0400
+
+    Merge pull request #183 from eringrand/patch-1
+    
+    More detailed Youtube icon.
+
+[33mcommit 33d103557b0b7329b5bed8bc7f6514eec71c7206[m
+Author: Erin Grand <elg2158@columbia.edu>
+Date:   Thu May 7 00:50:50 2015 -0400
+
+    Update _svg-icons.scss
+    
+    fixed the SVG and the size of the image
+
+[33mcommit c6b6dfbb9b51a7c1f7c88d044bcfe7d9bfe10df1[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Sun May 3 10:12:24 2015 -0400
+
+    Adding Colton and Trace to credits :raised_hands:
+
+[33mcommit a5758480621ffb6ed5ddc2a722a17b64d80891bc[m
+Merge: e6577ed a90775d
+Author: Barry Clark <barry@barryclark.co>
+Date:   Sat May 2 19:41:34 2015 -0400
+
+    Merge branch 'sunnankar-patch-1'
+
+[33mcommit a90775d977efc14bed1886c9a2f7df1a237fcde7[m
+Merge: e6577ed fd977db
+Author: Barry Clark <barry@barryclark.co>
+Date:   Sat May 2 19:41:17 2015 -0400
+
+    Merge branch 'patch-1' of https://github.com/sunnankar/jekyll-now into sunnankar-patch-1
+    
+    Conflicts:
+    	_includes/svg-icons.html
+
+[33mcommit e6577ed94979926b881d28a8cd81bd03ca639ba5[m
+Merge: c6b833e 1d3f019
+Author: Barry Clark <barry@barryclark.co>
+Date:   Sat May 2 19:20:44 2015 -0400
+
+    Merge pull request #158 from coltonfitzgerald/master
+    
+    Losslessly Compressed Images w/ ImageOptim
+
+[33mcommit c6b833e1f64d72940c367d6e9265c5eec65c17f1[m
+Merge: 5be6775 d8d1244
+Author: Barry Clark <barry@barryclark.co>
+Date:   Sat May 2 19:17:39 2015 -0400
+
+    Merge pull request #138 from eringrand/G+icon
+    
+    Google+ Icon, added by @eringrand
+
+[33mcommit fd977db08e4c1325404225068acf62c1b7ede199[m
+Author: sunnankar <sunnankar@users.noreply.github.com>
+Date:   Sat Apr 11 12:42:05 2015 -0400
+
+    Update svg-icons.html
+    
+    Added SSL to fix broken links for W3C validation and preempt redirection.
+
+[33mcommit 1d3f019082d2bc98f7d30a7d56e3710f100e0dec[m
+Author: coltonfitzgerald <rockincolton@gmail.com>
+Date:   Thu Apr 2 22:07:05 2015 -0700
+
+    Compress Images
+
+[33mcommit d8d124475dc398df010369b5061b911dcbdfbd77[m
+Author: eringrand <eringrand@gmail.com>
+Date:   Tue Mar 17 16:16:08 2015 -0400
+
+    added ability to include G+ icon
+
+[33mcommit b56f969828291d96e841fca5345d5750d79694d2[m
+Author: eringrand <eringrand@gmail.com>
+Date:   Tue Mar 17 16:12:19 2015 -0400
+
+    added G+ icon to svq-icons
+
+[33mcommit 5be6775713ab2dad9db5b6ac1d10422f4d2cb8d7[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Sun Mar 1 18:44:22 2015 -0500
+
+    Adding Clayton to the credits ￼:raised_hands:
+
+[33mcommit 3e761139ccf43a2bfeb26e842e312aa4cd3e6128[m
+Merge: bc9199b f2246dc
+Author: Barry Clark <barry@barryclark.co>
+Date:   Sun Mar 1 18:42:54 2015 -0500
+
+    Merge pull request #122 from cjerrington/patch-3
+    
+    improve the quality of analytics
+
+[33mcommit f2246dc0a458cc62dbbb636c3f177087db31b47d[m
+Author: Clayton Errington <cerringtondesigns@me.com>
+Date:   Sun Mar 1 15:47:33 2015 -0600
+
+    remove whitespace
+
+[33mcommit bc9199b572be3e42c39b864a5b0af6293ebbec1f[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Sun Mar 1 16:37:46 2015 -0500
+
+    Added in instructions for contributing
+
+[33mcommit 70fda2a5b43d1942f116fefe680eabe702070638[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Sun Mar 1 16:22:45 2015 -0500
+
+    Adding Dean Attali into the credits :raised_hands:
+
+[33mcommit 2f7f1cdf18d06def787d7c200abd1292b8af7c42[m
+Merge: 4509de3 0bc1730
+Author: Barry Clark <barry@barryclark.co>
+Date:   Sun Mar 1 16:20:48 2015 -0500
+
+    Merge pull request #126 from daattali/patch-1
+    
+    disqus_identifier param is not used
+
+[33mcommit 4509de35936a1a94598d1cc0652bcea572c01c6d[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Sun Mar 1 16:06:49 2015 -0500
+
+    :sparkles: Version bump to v1.1.0 :sparkles:
+
+[33mcommit 0bc17300eed855d20a7e3f5b33e5a4f34b4607f8[m
+Author: Dean Attali <daattali@gmail.com>
+Date:   Sun Mar 1 12:24:26 2015 -0800
+
+    disqus_identifier param is not used
+
+[33mcommit ac1cf36fe024843fd7173ec4d5feb62c53285997[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Sun Mar 1 14:50:11 2015 -0500
+
+    Using post.excerpt in index.html (closes #117)
+
+[33mcommit d824fd879e8190a796ea21306cd3e8b7525189ad[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Sun Mar 1 14:35:17 2015 -0500
+
+    Improve metadata for posts and pages (closes #50)
+
+[33mcommit 9f23e44cbeb6555d5a0afd9d624e515e661a9c19[m
+Author: Clayton Errington <cerringtondesigns@me.com>
+Date:   Mon Feb 23 15:36:40 2015 -0600
+
+    improve the quality of anaytics
+    
+    Improve the quality of Google Analytics as found in:
+    http://veithen.github.io/2015/01/05/jekyll-improving-ga-data-quality.html
+    
+    Reduce and eliminate referrer spam in Google Analytics as found in:
+    http://veithen.github.io/2015/01/21/referrer-spam.htmlimprove the quality of analytics http://veithen.github.io/2015/01/05/jekyll-improving-ga-data-quality.html
+
+[33mcommit e29df684bd31f193092409c9af5ce71091e2094f[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Mon Feb 23 01:29:20 2015 -0500
+
+    Removing emoji from Hello World blog post
+
+[33mcommit feddf2b53eeed241294cdf4afb02a21624381533[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Mon Feb 23 01:20:49 2015 -0500
+
+    Adding @LeoColomb and @ErinGrand to the credits!
+
+[33mcommit b83d46fb2b803417bfb0125039b885f2182bcf7b[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Mon Feb 23 01:14:19 2015 -0500
+
+    Move Sass to default _sass directory via @LeoColomb #39
+
+[33mcommit 19706125aa88f5afa42a5763d4773fe1f34c6bbb[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Mon Feb 23 01:09:06 2015 -0500
+
+    meta declarations pointed out by @LeoColomb in #39
+
+[33mcommit 282a3c0b586b5463e54cf8db765b92f62ed591da[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Mon Feb 23 01:06:50 2015 -0500
+
+    License date bump
+
+[33mcommit f3ce4344d1d5d5cdf3212ba0e0d07cc1ba26bdea[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Mon Feb 23 01:03:16 2015 -0500
+
+    Removing all of the trailing whitespace
+
+[33mcommit a8a038dc32dfa97b268ea0c44cc0502033622f8d[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Mon Feb 23 00:55:58 2015 -0500
+
+    Clarified comment about Disqus shortname
+
+[33mcommit a8abba4e9859e454c7c97ad7e4e8a239181b51cf[m
+Merge: f35771a d547da8
+Author: Barry Clark <barry@barryclark.co>
+Date:   Mon Feb 23 00:36:17 2015 -0500
+
+    Merge pull request #121 from eringrand/youtuberepo
+    
+    youtube icon
+
+[33mcommit d547da86ac7306f22492cb8aa3e034c31372acf5[m
+Author: eringrand <eringrand@gmail.com>
+Date:   Mon Feb 23 00:30:08 2015 -0500
+
+    modifed for theme
+
+[33mcommit f35771a57c836550dca70566c61f6c38ba19d49d[m
+Merge: 8e77d14 e944eb0
+Author: Barry Clark <barry@barryclark.co>
+Date:   Mon Jan 12 20:00:11 2015 -0500
+
+    Merge pull request #77 from jaminscript/fix-google-translate-bubble
+    
+    Resolves #72 - Google Translate rendering issue by overriding an img style
+
+[33mcommit e944eb02588304bd4c2c5bcc54fe9572c77bffad[m
+Author: Ben Abbott <jaminscript@gmail.com>
+Date:   Tue Jan 13 13:20:29 2015 +1300
+
+    Resolves #72 by overriding an img style
+
+[33mcommit 8e77d1436bc5d618150a6e368058a501ee446ed3[m
+Merge: 0bdcb9b 2f04c03
+Author: Barry Clark <barry@barryclark.co>
+Date:   Sun Jan 11 15:27:26 2015 -0500
+
+    Merge pull request #76 from rnicholus/syntax-highlighting
+    
+    Better syntax highlighting & switch to redcarpet parser
+
+[33mcommit 0bdcb9b27e274b70b9119ab587c879b6bebb4d1e[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Sun Jan 11 15:22:11 2015 -0500
+
+    Adding more contributors :raised_hands:
+
+[33mcommit 79744a7fbfff17985377da0c9a04c89d4f2e12e9[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Sun Jan 11 15:18:10 2015 -0500
+
+    Dropping gemoji
+
+[33mcommit 2f04c036a335b08956a1cf2157c574475fd04b10[m
+Author: Ray Nicholus <rnicholus@users.noreply.github.com>
+Date:   Sun Jan 11 14:12:54 2015 -0600
+
+    Better syntax highlighting
+    
+    - Switched to redcarpet from kramdown for proper markup
+
+[33mcommit 1a40b26107f8dcebb1929dc86cb40c6c88107993[m
+Merge: 8e81837 404ddf2
+Author: Barry Clark <barry@barryclark.co>
+Date:   Sun Jan 11 12:54:58 2015 -0500
+
+    Merge pull request #47 from jaminscript/move-svg-to-css
+    
+    Load SVG icons in via CSS. Saves up to 27KB per page load!
+
+[33mcommit 404ddf26e5e36951cbf9f212ce685896ec714a08[m
+Author: Ben Abbott <jaminscript@gmail.com>
+Date:   Wed Nov 12 16:42:00 2014 +1300
+
+    Change how SVG icons are included in pages
+    
+    Normally you include a .html file containing SVG data to show social
+    media icons on the page, but this means adding up to 27KB of bloat to
+    every single page.
+    
+    With this commit I have moved the SVG data into a .scss file and
+    converted them into Data URIs so they work on multiple browsers. This
+    means the CSS file will contain the SVG data rather than each and every
+    page on the site.
+
+[33mcommit 8e81837d1c6daaa5d255226df02f6252a46d3ddb[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Wed Oct 22 19:10:51 2014 -0400
+
+    Readme: removing new themes email drop
+
+[33mcommit d1fd3a68d0c0cfdb38382ab222931908c10d8c34[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Mon Oct 20 07:41:05 2014 -0400
+
+    Adding Henry Stanley to readme credits :raised_hands:
+
+[33mcommit ceadb3b3051ddb616b3e6f2e7d8e98eb6ec3f85c[m
+Merge: 8bfd9c9 eb6cff2
+Author: Barry Clark <barry@barryclark.co>
+Date:   Sun Oct 19 10:45:10 2014 -0400
+
+    Merge pull request #38 from henryaj/master
+    
+    Teeny tiny typo fixes to README
+
+[33mcommit eb6cff2cdc11d4ef81f3ba0ff50e15da45b629ba[m
+Author: Henry Stanley <henry@henrystanley.com>
+Date:   Sat Oct 18 11:21:51 2014 +0100
+
+    Teeny tiny typo fixes to README
+
+[33mcommit 8bfd9c961b9af1b6827384799d39e905528906da[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Sat Oct 18 00:11:18 2014 -0400
+
+    Updating readme to mention that it can take 10 minutes - closes #37
+
+[33mcommit 617c176a111cf798649a3debb6e228a528d0bdcb[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Mon Oct 13 10:16:44 2014 -0400
+
+    Updated readme to make local dev installation steps a little easier.
+
+[33mcommit 67d2f75a4f1a154efa851fb98e0dcf8fa346dce7[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Mon Oct 6 19:10:59 2014 -0400
+
+    Updated readme installation steps to use GitHub Pages :gem:
+
+[33mcommit 9826c6c3db45aaa376bcec1f24773594bb69a4af[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Sun Oct 5 09:27:40 2014 -0400
+
+    Add credits for Florian Simon :raised_hands:
+
+[33mcommit 5e4f0720f3ac2928e17d570a8233c858ff725c50[m
+Merge: bfa9d5a ef2186d
+Author: Barry Clark <barry@barryclark.co>
+Date:   Sat Oct 4 17:26:41 2014 -0400
+
+    Merge pull request #31 from vermluh/icons2
+    
+    Remove extraneous markup from Stack Overflow icon
+
+[33mcommit ef2186dc88bf289bda3f73e748b6d1dc90f32eea[m
+Author: Florian Simon <github@verm-luh.de>
+Date:   Tue Sep 30 12:15:08 2014 +0200
+
+    Update stackoverflow.html
+    
+    Modified stackoverflow icon in order to remove xml declaration and title tag from resulting HTML code
+
+[33mcommit bfa9d5a4c517f413a0d09b785231b68c04a41a16[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Thu Sep 25 23:37:43 2014 -0400
+
+    Added Hun Jae Lee to credits :raised_hands:
+
+[33mcommit 057536620cdf27be8ea5c4890a47cecd57da9fee[m
+Merge: 875917a bbc3e29
+Author: Barry Clark <barry@barryclark.co>
+Date:   Sat Sep 20 09:19:22 2014 -0400
+
+    Merge pull request #28 from etelej/j-now
+    
+    Fix duplicate meta charset declaration
+
+[33mcommit 875917a4baef9de5e7695108359d24a2052be882[m
+Merge: 7c425a1 0fdf013
+Author: Barry Clark <barry@barryclark.co>
+Date:   Sat Sep 20 09:16:08 2014 -0400
+
+    Merge pull request #26 from hunjaelee/patch-1
+    
+    Fix mailto links
+
+[33mcommit bbc3e29579230cf68c342176f491a0d02ffc8468[m
+Author: Peter Etelej <peter.etelej@gmail.com>
+Date:   Fri Sep 19 13:27:10 2014 +0300
+
+    Fix duplicate meta charset declaration
+
+[33mcommit 0fdf013bb8cd3a8005a9a4d64411e62c8e8a552a[m
+Author: Hun Jae Lee <hunjaelee@users.noreply.github.com>
+Date:   Wed Sep 17 19:26:21 2014 -0400
+
+    Fix mailto link code
+    
+    So that the created link is `mailto:email@example.com` instead of `mailto: email@example.com` (note the space after `mailto:`)
+
+[33mcommit 7c425a1e3a50b893e828c9e2e031c12967757f69[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Mon Sep 15 20:24:43 2014 -0400
+
+    Peter Etelej credits shout out
+
+[33mcommit 0ac1710ba8c25ac8a89eeb78d956e511ba88bf1b[m
+Merge: 52fd2bc cfd645e
+Author: Barry Clark <barry@barryclark.co>
+Date:   Sun Sep 14 12:13:30 2014 -0400
+
+    Merge pull request #23 from etelej/j-now
+    
+    Fix feed.xml null layout warning
+
+[33mcommit cfd645e2a5396a01d01e4d4c24072f38c6d903e2[m
+Author: Peter Etelej <peter.etelej@gmail.com>
+Date:   Sun Sep 14 14:08:41 2014 +0300
+
+    Update feed.xml Layout declaration
+
+[33mcommit 52fd2bcc325c2c942281f58b844ce399a4e2ba6f[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Sat Sep 6 15:41:11 2014 -0400
+
+    removing newsletter plug from readme
+
+[33mcommit 5dc43301e9531ef4860d4b5d22efcfa94955e1b4[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Thu Aug 28 21:56:14 2014 -0400
+
+    Visual improvements to the font weight of headers
+
+[33mcommit 048f23c23734220bd2ebb5fd59e3d7a479636b0b[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Fri Aug 22 08:45:24 2014 -0400
+
+    Bold headers fix for Windows browsers
+
+[33mcommit 6642ccef55c26ebd7582d42e72fc150164d37419[m
+Merge: 36b4c9b 14f665d
+Author: Barry Clark <barry@barryclark.co>
+Date:   Wed Aug 20 14:07:40 2014 -0400
+
+    Merge pull request #17 from esteinborn/patch-1
+    
+    Update to Universal Google Analytics Script
+
+[33mcommit 14f665d63fe7b62cc9c3f1e3afb68d82bf1914d9[m
+Author: Eric Steinborn <esteinborn@gmail.com>
+Date:   Tue Aug 19 17:09:31 2014 -0400
+
+    Update to Universal Google Analytics Script
+    
+    Google is upgrading to their new "Universal Analytics."
+    
+    I'd recommend building that into this instead of the legacy ga.js script.
+    https://developers.google.com/analytics/devguides/collection/analyticsjs/
+
+[33mcommit 36b4c9b0aec0e84d8ab8d649a0abf9feeec5b35c[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Sat Aug 16 10:30:05 2014 -0400
+
+    Readme love for Bart Kiers and Javier Cejudo
+
+[33mcommit 615f8ca5f3af9fd31312d0e01215f9fa6e189ab2[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Fri Aug 15 15:31:47 2014 -0400
+
+    Add permalink with trailing slash to about page Fixes #13
+
+[33mcommit 3a1aa66c425af4885e3b8f2e756e611de700048a[m
+Merge: a865b32 d035ea2
+Author: Barry Clark <barry@barryclark.co>
+Date:   Fri Aug 15 15:27:43 2014 -0400
+
+    Merge pull request #15 from javiercejudo/patch-1
+    
+    Adds trailing slash to avoid 301 redirections
+
+[33mcommit a865b320a710f29581ed53c546e1267ea015700f[m
+Merge: 52fde56 21e4160
+Author: Barry Clark <barry@barryclark.co>
+Date:   Fri Aug 15 15:19:36 2014 -0400
+
+    Merge pull request #16 from javiercejudo/patch-2
+    
+    Adds link element for RSS feed
+
+[33mcommit 21e4160b8df1adda0f883d0a963b6ca6b61b4890[m
+Author: Javier Cejudo <javier@javiercejudo.com>
+Date:   Sat Aug 16 01:50:07 2014 +1000
+
+    Adds site description to the RSS link title
+
+[33mcommit 0f06c36b1b1365d969c562108047045430f9825f[m
+Author: Javier Cejudo <javier@javiercejudo.com>
+Date:   Fri Aug 15 10:29:47 2014 +1000
+
+    Adds link element for RSS feed
+
+[33mcommit d035ea248ca9e091d4eaa1e976e90969871f5f12[m
+Author: Javier Cejudo <javier@javiercejudo.com>
+Date:   Fri Aug 15 10:14:19 2014 +1000
+
+    Adds trailing slash to avoid 301 redirects
+
+[33mcommit 52fde567c9c822ea3b5193ba218b9b8a33435d7f[m
+Merge: 0ad1caa ee57e99
+Author: Barry Clark <barry@barryclark.co>
+Date:   Thu Aug 14 19:00:07 2014 -0400
+
+    Merge branch 'master' of github.com:barryclark/jekyll-now
+
+[33mcommit 0ad1caa68e463fe801c60d1f8729f9fe2c8e946b[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Thu Aug 14 18:59:51 2014 -0400
+
+    Added Michael Rose themes to recommended list
+
+[33mcommit ee57e992b639fa56d3535de92339bec772896c1a[m
+Merge: 5de9557 ca618a6
+Author: Barry Clark <barry@barryclark.co>
+Date:   Tue Aug 5 07:55:40 2014 -0400
+
+    Merge pull request #6 from bkiers/stackoverflow-svg
+    
+    Added stackoverflow SVG.
+
+[33mcommit ca618a6bd49957cb52ec48d937643fd2c4f32df7[m
+Author: Bart Kiers <bkiers@gmail.com>
+Date:   Tue Aug 5 08:22:02 2014 +0200
+
+    Added stackoverflow SVG.
+
+[33mcommit 5de95578fd1500ed438fe3acc9dd0750dbbe1dcf[m
+Merge: f83c9de 95c57f4
+Author: Barry Clark <barry@barryclark.co>
+Date:   Sun Aug 3 10:20:22 2014 -0400
+
+    Merge pull request #3 from javiercejudo/patch-1
+    
+    Remove duplicated viewport meta tag
+
+[33mcommit 95c57f465caa35f37d3f5c5f9bca8bf194d8fa16[m
+Author: Javier Cejudo <javier@javiercejudo.com>
+Date:   Sun Aug 3 13:27:38 2014 +1000
+
+    Remove duplicated viewport meta tag
+
+[33mcommit f83c9de3eabfabbfc2c917dce418bc751f811344[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Fri Aug 1 08:16:48 2014 -0400
+
+    Readme: Smashing Mag link updated - Fixes #1
+
+[33mcommit f976ad9992f6621464f73a3385316e2696efd39f[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Fri Aug 1 07:39:19 2014 -0400
+
+    Readme: Added comment about making Windows setup easier
+
+[33mcommit a06e704efc9bbd561f1f663fd72fd96adc3029f7[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Thu Jul 31 08:52:11 2014 -0400
+
+    Readme: Moving newsletter CTA to the bottom
+
+[33mcommit 765346ee16c208aa4c7d123a011274ef62f36755[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Wed Jul 30 21:12:38 2014 -0400
+
+    Added information about Smashing Mag walkthrough
+
+[33mcommit 1feb9b67a9d308a8069185f3d906341f9d4c14ac[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Wed Jul 30 21:08:03 2014 -0400
+
+    Use the markdown style guide that's on www.jekyllnow.com
+
+[33mcommit 5d93016e580ee17ec5f9d3d4fe9e8e18805c7708[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Wed Jul 30 20:41:33 2014 -0400
+
+    v1.0.0 release
+
+[33mcommit 2d838a34169b905808421439ce3e48d78e025333[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Wed Jul 30 20:40:37 2014 -0400
+
+    Newsletter url update
+
+[33mcommit 4102f02f061359d6ec413e73ef06a095497e90a5[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Wed Jul 30 20:33:22 2014 -0400
+
+    Add in link for Smashing Magazine walkthrough
+
+[33mcommit 72e25f3ddcfcbf7af03718cfbcbde67b12470a10[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Wed Jul 30 19:54:38 2014 -0400
+
+    Readme: Tidied up the credits
+
+[33mcommit ff31cd98436be690775b51f2d133c1ed64d8b6a7[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Wed Jul 30 19:53:10 2014 -0400
+
+    Quick readme re-order
+
+[33mcommit 210d9770c9671f04cff4d75039644138d2785b7e[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Wed Jul 30 19:52:06 2014 -0400
+
+    Added local development instructions
+
+[33mcommit c2d379cac670b45c4769f2126db79825c0570467[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Wed Jul 30 19:09:58 2014 -0400
+
+    Clean out grunt stuff from _config.yml excludes
+
+[33mcommit 23d88f26d9c05e783af920c1e976d9579e77a001[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Wed Jul 30 18:53:22 2014 -0400
+
+    CSS comments tidy up
+
+[33mcommit c2838aa3319fbd40e0ed221597812438949ea46f[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Wed Jul 30 18:41:02 2014 -0400
+
+    Add syntax highlighting styles to credits
+
+[33mcommit 15918f701a4da5a5b49f0d11c72350a58f4bfd06[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Wed Jul 30 17:40:08 2014 -0400
+
+    Newsletter CTA copy update
+
+[33mcommit 6955d770fe5fdeba40377509d12030e9ebfe0130[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Wed Jul 30 17:36:13 2014 -0400
+
+    Update Sass files to be built by GitHub Pages
+
+[33mcommit 893f2bb204a39498957d36ad215e510d233309bc[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Wed Jul 30 17:33:33 2014 -0400
+
+    Update the newsletter link
+
+[33mcommit 95b0a26524e7811ae03d6bac0485cf942ba7d784[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Wed Jul 30 17:31:07 2014 -0400
+
+    Goodbye Gruntfile - you have served me well
+
+[33mcommit 06070b44658720148c71afc4a8c2f215eeda90f5[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Mon Jul 21 18:47:38 2014 -0400
+
+    Added newsletter call to action to the top of the readme
+
+[33mcommit ed4f8304de834a8fe26fba332312eb0c93b43f8a[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Mon Jul 14 22:13:26 2014 -0400
+
+    i and em are italics, b and strong are bold
+
+[33mcommit 655bd1209767995f0c1aeb21a05780d17d123967[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Tue Jul 8 18:53:41 2014 -0400
+
+    Because Luke
+
+[33mcommit d7dbbf8a896f426b880a99e2e2ab323db5901a02[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Wed Jul 2 08:57:41 2014 -0400
+
+    Slight tweak to spacing between masthead and content
+
+[33mcommit 2dd2f78689df65cd42935b22aca97254ef291582[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Wed Jul 2 08:46:40 2014 -0400
+
+    Change visual style of read more links
+
+[33mcommit 74f003535247fd1e8330bdd812217bb4ef9545d2[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Wed Jul 2 08:41:35 2014 -0400
+
+    Increased post title font-weight
+
+[33mcommit 69b588204f960dbcf50cc0d3001dfb72690d3486[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Fri Jun 27 17:17:07 2014 -0400
+
+    Included an email list for theme updates
+
+[33mcommit 36fd38fd325e337b04b87489e292e0d7ccd68ab2[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Mon Jun 23 08:05:43 2014 -0400
+
+    Copy update on first post
+
+[33mcommit d5069ba990e590a3c432c68fc2666c4e46e7307e[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Sun Jun 22 16:12:55 2014 -0400
+
+    Minor readme updates
+
+[33mcommit 858e7e577cf5d46e0e7991569361dcc081a1e8f5[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Sat Jun 21 15:20:22 2014 -0400
+
+    Changed version to beta in _config.yml
+
+[33mcommit a495739351dd27102b6c64b1972a915945350568[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Sat Jun 21 09:33:25 2014 -0400
+
+    Update default github icon to point to jekyll now repo
+
+[33mcommit b177a4043551a5e0ecd036982c23308152a1e438[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Fri Jun 20 17:31:35 2014 -0400
+
+    Removed unused image files
+
+[33mcommit ebeecf0bb1700d4940ad8d68171b1b9f2d8a7608[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Fri Jun 20 17:28:02 2014 -0400
+
+    Move to mobile view earlier at 640px
+
+[33mcommit bdddc6b4b98b244e5b9f5202f9616310f233adcc[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Fri Jun 20 17:19:29 2014 -0400
+
+    Added release configuration flag
+
+[33mcommit e7b254b56927571107fcecda9be511457a9b803e[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Fri Jun 20 17:07:26 2014 -0400
+
+    write epic blog posts
+
+[33mcommit df79f8e734aba31f5c3ebd84cc39adf8c394ca4c[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Fri Jun 20 16:58:10 2014 -0400
+
+    Tweak spacing on navigation
+
+[33mcommit ea1c005213ac914110526e824b024006b01c9895[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Fri Jun 20 08:42:37 2014 -0400
+
+    Removing Gemfile from repo
+
+[33mcommit 5c9198c0b69ecbd975746d38267ae61eb8ec38a6[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Fri Jun 20 08:41:12 2014 -0400
+
+    Adding specific jekyll-sitemap version to Gemfile
+
+[33mcommit 04ea9f22b3e7a175843f5bb5c0ce87fd294011aa[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Fri Jun 20 08:20:08 2014 -0400
+
+    Don't need to add the Gemfile to the repo
+
+[33mcommit 29a875134685b927633aa91349ccaafb63c66d39[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Thu Jun 19 19:34:37 2014 -0400
+
+    README: Removed first theme demo link, there's a big screenshot now
+
+[33mcommit 348fb797b424397a74d47782dbc8bafbb53766e5[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Thu Jun 19 19:31:17 2014 -0400
+
+    README: Moved theme demo link below screenshot
+
+[33mcommit 5e1e22d4739d39c0c8f9f2338911cae8a0d0c26f[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Thu Jun 19 19:19:28 2014 -0400
+
+    Updated theme screenshot to include browser chrome
+
+[33mcommit f128def9288bd393cacb72a7d4179d14ecc2d16c[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Tue Jun 17 08:59:50 2014 -0400
+
+    Adding Gemfile to repo as we're using Jemoji and Jekyll-Sitemap gems
+
+[33mcommit c92a7086887b95ebe12fff5cd4511b8f6f548cb3[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Mon Jun 16 00:40:57 2014 -0400
+
+    It's called a Disqus shortname, not username
+
+[33mcommit 78d61e44ce03f2f32cdd660e152ed8301549ff3a[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Mon Jun 16 00:40:42 2014 -0400
+
+    It's called a Disqus shortname, not username
+
+[33mcommit 84752bdb403c685f2923a8dd8d0b2a3e6625c3e2[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Mon Jun 16 00:40:22 2014 -0400
+
+    Removed old sitemap
+
+[33mcommit 635a2b79f5a6eab300bab3afc142f3af9b562a29[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Mon Jun 16 00:18:29 2014 -0400
+
+    Switched from my own sitemap.xml to the official Jekyll gem
+
+[33mcommit f070f471bfefd1089c6c7aa188992936a0df6464[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Sun Jun 15 16:51:57 2014 -0400
+
+    Readme prose updates
+
+[33mcommit a06b7de52e344c320a9466f1d38b364576f05ad8[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Sun Jun 15 16:30:16 2014 -0400
+
+    Add in Prose.io instructions
+
+[33mcommit 8e739840697996dd0aff1c44e63bbcc5aa1e2702[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Sat Jun 14 09:08:14 2014 -0400
+
+    Readme: Typo
+
+[33mcommit 1ea85545fc6ba29e2267181af806ef24bdc1eeed[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Sat Jun 14 09:04:07 2014 -0400
+
+    Readme: Re-ordered themes sections
+
+[33mcommit b0b09ed4d74a88a9b11577a014497b43913b7617[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Sat Jun 14 09:03:31 2014 -0400
+
+    Readme: Reworked other forkable themes section
+
+[33mcommit 12f8c95ff56439a7fe087e922445469be52275d1[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Sat Jun 14 09:02:53 2014 -0400
+
+    Readme: Reworked other forkable themes section
+
+[33mcommit 4df1021d59a8ed3162bafa72b63be4982082e9bc[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Fri Jun 13 09:23:03 2014 -0400
+
+    Resize the image on the 404 page
+
+[33mcommit 47e76ddaf202c104a42c34187c4e5325f996f26d[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Fri Jun 13 09:18:04 2014 -0400
+
+    Updated 404 page to fix links
+
+[33mcommit 6e7dd09936146a589afbc165bb7ab1565f449c6f[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Fri Jun 13 09:10:52 2014 -0400
+
+    Added a 404 page
+
+[33mcommit fda8d43c932385f5b21d66342f5c1e8ef7def321[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Fri Jun 13 08:59:59 2014 -0400
+
+    Moved SVG icon markup to an include
+
+[33mcommit 516a87071e795ef93c7ea22b01de310ddf8aeb82[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Fri Jun 13 08:52:46 2014 -0400
+
+    Adding screenshot of the theme into the readme
+
+[33mcommit ca232e128c7a4a32ce86a67d80067437e173e498[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Thu Jun 12 21:01:11 2014 -0400
+
+    New quick start demo gif
+
+[33mcommit 51b79dc0eda28a9ef716cc38fc61e91089bf50ac[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Thu Jun 12 20:56:59 2014 -0400
+
+    Readme: hacker portfolio theme
+
+[33mcommit f030f7df5f65096f476ad5c2b144234da2b98731[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Thu Jun 12 20:55:33 2014 -0400
+
+    Added recommended themes section to readme
+
+[33mcommit 8d1fc2060326245b1a91533b3777d056e0daecd5[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Wed Jun 11 09:21:48 2014 -0400
+
+    README.md explaining creating new posts in the browser
+
+[33mcommit a1dcbe019cc0c76abdabb2a4f05a7f4a9a6241f7[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Wed Jun 11 09:07:22 2014 -0400
+
+    Give the comments some breathing room
+
+[33mcommit dc8f1d9f9f99e1780f002ab86c52fe98848d058f[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Wed Jun 11 08:54:45 2014 -0400
+
+    README.md clarifying how rebuild works
+
+[33mcommit 79fae65890bf27b9bf261f7a2269419b57653f77[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Wed Jun 11 08:53:43 2014 -0400
+
+    Minor readme update
+
+[33mcommit 8375540d94f836b3e2a85e5d2b856c9fafc48ef9[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Wed Jun 11 08:52:43 2014 -0400
+
+    Updated README with new instructions on forcing your site live
+
+[33mcommit bb7bb247ad4c7979a806d81226d807c77a8e7945[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Tue Jun 3 19:37:23 2014 -0400
+
+    Corrected post linked in feed.xml
+
+[33mcommit 949be13ce3a8c3939cca17faf8a25e91ac22fda8[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Mon Jun 2 22:04:36 2014 -0400
+
+    ups, no trailing slash in baseurl
+
+[33mcommit 89e76595ece1a84c25c9dc2cbacb501f8022122c[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Mon Jun 2 21:42:24 2014 -0400
+
+    Extra / in Hello World image reference
+
+[33mcommit 9e75552839ede3412025b10ade59ff4ba2d08e7e[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Mon Jun 2 21:29:46 2014 -0400
+
+    Don't need the /
+
+[33mcommit b491bc61eabc74ad650e0a959bf46853736d47ab[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Mon Jun 2 21:27:25 2014 -0400
+
+    Updating index.html links to include baseurl
+
+[33mcommit 1011dd7fac72fc38a3e0d24f89a8ccd8b6168cd5[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Mon Jun 2 21:23:15 2014 -0400
+
+    Updating Hello World blog post image reference
+
+[33mcommit ebe82b5c783939896fb506ed86f7e77cc28cfecc[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Mon Jun 2 20:27:16 2014 -0400
+
+    Readme typo fix
+
+[33mcommit d26d4579d5ff6d391decced21baa63e6d6b27828[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Mon Jun 2 20:16:45 2014 -0400
+
+    A few minor readme edits
+
+[33mcommit 5209833ed98733dcfc29ea0008d71d708925e55d[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Mon Jun 2 20:04:06 2014 -0400
+
+    Little 1px border-bottom on the footer
+
+[33mcommit 54d20da44fbbeda2b96d801cd8df93de933b0d8b[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Mon Jun 2 19:10:43 2014 -0400
+
+    * { Box-sizing: Border-box } FTW
+
+[33mcommit 29251636829a307ab3bfcc466e20aefdd32c9bba[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Sun Jun 1 19:09:54 2014 -0400
+
+    blockquoting readme cloning down tip
+
+[33mcommit 5f83b91c98ffd87bc6fa02751d95b501b4e62532[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Sun Jun 1 19:05:41 2014 -0400
+
+    Updated readme Step 2 to touch on cloning down option
+
+[33mcommit ab3fe59ea3af8c350533c261ce4e09397bc7e72b[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Sun Jun 1 19:01:22 2014 -0400
+
+    Give headers bold by default
+
+[33mcommit 6abf49094e32108b9ce37aad35efdc01258f076d[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Sun Jun 1 19:00:30 2014 -0400
+
+    Slightly toning down h2s again
+
+[33mcommit d63696d065bd91dc173093741d6020699bdd770c[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Sun Jun 1 18:54:37 2014 -0400
+
+    Largely unsuccessful attempt to fix markup tag indenting
+
+[33mcommit 734a6bba41370d919d3a74466b1a75ce50b2829d[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Sun Jun 1 18:45:35 2014 -0400
+
+    Making syntax highlighting more readable
+
+[33mcommit 5b34fba102ede299d784ea9f4d066e0555c57dbc[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Sun Jun 1 18:29:20 2014 -0400
+
+    Might as well take IE8 and below support for 3 lines of code.
+
+[33mcommit fb61a1d6b6b7dd6a7a4a538c25272e012ae10dcf[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Sun Jun 1 18:21:46 2014 -0400
+
+    Removed mobile width variable as it isn't used elsewhere
+
+[33mcommit 4b6808430d045357c5eef6bd95769e2ca5752705[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Sun Jun 1 18:20:29 2014 -0400
+
+    Removed light gray as it isn't used
+
+[33mcommit e9a65e6c3f3586884efdc3363cbdadf62eb009c4[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Sun Jun 1 18:17:13 2014 -0400
+
+    Clear up color variable usage in the Scss
+
+[33mcommit 3d5bee22052a20cf328a85309daa0d855b7e1d54[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Sun Jun 1 18:07:17 2014 -0400
+
+    Moving syntax highlighting to the bottom of the CSS file
+
+[33mcommit 0dae8f2e64ef610c370b8222953ae4618a4c1d40[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Sun Jun 1 18:04:41 2014 -0400
+
+    Created headers in SCSS to break things out more in the CSS file
+
+[33mcommit f26465023eddfccfcecc0cd21f6e0600eb90cd64[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Sun Jun 1 17:31:39 2014 -0400
+
+    Mobile header tweaks
+
+[33mcommit 2e8d4bb33f611b013939307a1f7662e8cf53f708[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Sun Jun 1 17:24:06 2014 -0400
+
+    Refactor of hyperlink styles and hover states
+
+[33mcommit 9d6de3c942b2cfbe0aae3e260c74faffda06b8e5[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Sun Jun 1 17:12:38 2014 -0400
+
+    Refactor of the nav, and added in new .clearfix
+
+[33mcommit 5ec5d054c2cb7bd2f60d12edfc54f48185068e78[m
+Merge: df705f6 583c861
+Author: Barry Clark <barry@barryclark.co>
+Date:   Sun Jun 1 15:23:07 2014 -0400
+
+    I am terrible at using git commit --amend
+    
+    Merge branch 'master' of github.com:barryclark/jekyll-now
+    
+    Conflicts:
+    	_config.yml
+
+[33mcommit df705f6cec60f574c886916201bfcb51eaf03ff2[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Sun Jun 1 15:20:02 2014 -0400
+
+    Moving secret head comment lower
+
+[33mcommit 06a70255b592de976a48fecf31da380eaa628ecd[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Sun Jun 1 15:04:19 2014 -0400
+
+    Explaining baseurl in _config.yml
+
+[33mcommit 583c861729832e9952f146a0915461ac96760638[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Sun Jun 1 15:04:19 2014 -0400
+
+    Explaining baseurl in _config.yml
+
+[33mcommit 7ceaee102802b7b347adc6e528413d96c309e808[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Sun Jun 1 14:59:58 2014 -0400
+
+    Re-ordered _config.yml
+
+[33mcommit 790d93f3ed74d4146b116edde570896df173c50a[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Sun Jun 1 14:54:52 2014 -0400
+
+    Fixed URL links in RSS feed
+
+[33mcommit 59d40125846874759a4847ad1c91c7fe4ed690d0[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Sun Jun 1 14:51:59 2014 -0400
+
+    Adding in baseurl to support hosting at project repos
+
+[33mcommit 3bfcb12ca0f7c3ec7b29e6e2e1d915441cca8170[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Sun Jun 1 14:37:00 2014 -0400
+
+    Rolling without HTML5 shiv, because don't need IE8 support
+
+[33mcommit 7163abfa7e70e3b7a65dc6207b1c2039987327b5[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Sat May 31 10:57:37 2014 -0400
+
+    Added Jekyll Now comment in to the top of the head markup
+
+[33mcommit 195ec19009b1e377c2a5ab1715affeffa71afa17[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Thu May 29 08:35:55 2014 -0400
+
+    Readme tweaks
+
+[33mcommit 0a2722066ac1e02f2dcae9dd018821ff4c6c51bc[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Wed May 28 21:12:44 2014 -0400
+
+    Put the first post image below the instructional copy
+
+[33mcommit e316ee0f4493e45ca187b6e07050af4ddf38cf8f[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Wed May 28 21:11:08 2014 -0400
+
+    Updated image link in first post
+
+[33mcommit 59ecb439cfeae0dd903ee7ccf9f1606410160d5c[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Wed May 28 21:08:15 2014 -0400
+
+    Updates tutorial images
+
+[33mcommit 09eaa9a95d3aa236f86b7e34233bb0a46ed35c6c[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Wed May 28 21:05:38 2014 -0400
+
+    Resizes tutorial images to be smaller so they won't scale down as much
+
+[33mcommit c022effcea1f62dbccb0a83599a47f5c7c6a1533[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Wed May 28 21:02:35 2014 -0400
+
+    Changed tutorial images to pngs
+
+[33mcommit 8630f9900934b396bb0bd788479795050c1fd0b4[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Wed May 28 20:59:43 2014 -0400
+
+    Changes tutorial pics to use GitHub.com UI
+
+[33mcommit 342f75447299cd8f18c34af0b8fbc0c0b2000e32[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Wed May 28 20:41:47 2014 -0400
+
+    Misc readme updates
+
+[33mcommit a17b7a9aa21ee8c8b30a0b8cd1f1d898ee032e46[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Wed May 28 20:28:29 2014 -0400
+
+    More time making your blog awesome
+
+[33mcommit 1588ac5f1dc06bc90452b6598b30d56698bf6f73[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Wed May 28 20:26:55 2014 -0400
+
+    Easy to try out
+
+[33mcommit 57afd5437302274ec6c56701850d260feec89540[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Wed May 28 20:26:13 2014 -0400
+
+    Explain Jekyll and link to jekyll/jekyll at top of readme
+
+[33mcommit 397c5e4e1a1c95ef6ecb6fd6112d547817cca6db[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Wed May 28 20:10:31 2014 -0400
+
+    Link the user to a markdown cheatsheet
+
+[33mcommit 611659f1797d778c551173834725e6dd72635237[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Wed May 28 20:04:43 2014 -0400
+
+    Readme: ... but it can take up to 10 minutes
+
+[33mcommit 4cbf119b4dac855ebf565b24fc7621df953284f0[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Wed May 28 20:01:06 2014 -0400
+
+    Readme: Make it really clear that you can view your site right after forking
+
+[33mcommit 927bd3f781b9aa3a891e0f003c1f2a2879915908[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Wed May 28 19:44:28 2014 -0400
+
+    Use a hard-coded link to the Jekyll logo, hosted on jekyll-now
+
+[33mcommit 773de6bff5dae75c83996a9128d55f2f17a15cbf[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Wed May 28 19:27:10 2014 -0400
+
+    Use Jekyll's profile pic as the placeholder
+
+[33mcommit 38601351d8874c89610b70943da6635b8bffd259[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Wed May 28 19:25:37 2014 -0400
+
+    Reordered _config.yml for better first run experience
+
+[33mcommit 7f555b5c0d8eeb2bd6be241217d78abab03c1951[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Tue May 27 21:09:25 2014 -0400
+
+    Fixed blue post titles on hover
+
+[33mcommit 33a20962efae31cbbfc429a0d564306bf05f3f3b[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Tue May 27 21:01:58 2014 -0400
+
+    Post headers glow blue instead of underlining
+
+[33mcommit 1423f650fcef2c610c5b4c020f8a60178a04285f[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Tue May 27 20:58:58 2014 -0400
+
+    Decrease header line-height on mobile
+
+[33mcommit bef20c4d5ba2e2c32ac4808227cc14d4feadef0e[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Tue May 27 20:56:19 2014 -0400
+
+    Toned down h2-h4 sizes
+
+[33mcommit 1d2c8ceb6753253e0fe38d315639e944117db939[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Tue May 27 20:49:02 2014 -0400
+
+    Don't display a dividing line under the last post on the blog
+
+[33mcommit 64083d6f39a6443aad04d8cf3d53fbc44513891a[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Tue May 27 20:41:32 2014 -0400
+
+    Only include Google Analytics markup if an account has been entered
+
+[33mcommit f521f8a9ec81c6b42f05c1fff11a61d234f40bb8[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Tue May 27 20:40:03 2014 -0400
+
+    Only include Disqus markup if an account has been entered
+
+[33mcommit a31c079738bf4f12531573245e72cb210708d7e1[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Mon May 26 23:47:39 2014 -0400
+
+    Documentation updates.
+
+[33mcommit 44edb2c04413ed0ffa6b49878ceba147a9758271[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Sun May 25 18:54:28 2014 -0400
+
+    Removing everything from the CNAME file
+
+[33mcommit 7a5ef72d33fd841d963aa5caf9a78b0756bbda86[m
+Merge: 370386f c662a31
+Author: Barry Clark <barry@barryclark.co>
+Date:   Sun May 25 18:52:08 2014 -0400
+
+    Merge branch 'master' of github.com:barryclark/jekyll-now
+
+[33mcommit 370386fb738270c434ffc3341a6e862dc9dc23be[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Sun May 25 18:51:53 2014 -0400
+
+    Removed some unused images
+
+[33mcommit c662a31443cf866738729adbc3e5d4371b9782a6[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Sun May 25 12:00:51 2014 -0400
+
+    Update CNAME
+
+[33mcommit d7c0f5b957548a9d5232fae85adea2d12810fc58[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Sat May 24 11:12:14 2014 -0400
+
+    README: Updated credits formatting
+
+[33mcommit 27b6bec5a11c8805d23ba05f7459dff74da4cc0e[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Sat May 24 11:03:51 2014 -0400
+
+    Added Jon and Dave to review credits
+
+[33mcommit 8d6f8a76a4c4a8140d8b705b8c3035baecf556ba[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Fri May 23 09:12:34 2014 -0400
+
+    Lighten up description and border-bottom in the header
+
+[33mcommit 04c0faca7e960632cae6f3ab9da21e0395123c56[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Wed May 21 08:19:40 2014 -0400
+
+    Documentation
+
+[33mcommit 304427fd6097baea10a2dccd79d294ccf705666e[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Mon May 19 19:24:49 2014 -0400
+
+    readme tweakery #1000
+
+[33mcommit 9f49972041c0246adef421814073bf45df13235a[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Mon May 19 19:20:16 2014 -0400
+
+    Clarified emoji in readme
+
+[33mcommit 8a031c2c0567e48807c1457b2cbf64deaf8dd8b8[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Mon May 19 19:18:19 2014 -0400
+
+    More readme tweakery
+
+[33mcommit 07c5286642142e27ee9ad4424af0a6cbb9bfe6f6[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Mon May 19 19:14:31 2014 -0400
+
+    Greatly simplified readme
+
+[33mcommit 15e1f8599344ba23679a156abcf7982f933d14de[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Mon May 19 18:15:57 2014 -0400
+
+    Readme update
+
+[33mcommit 64a0744f1c8144149b93f57e4b7ff7b4647c5f0e[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Mon May 19 18:10:03 2014 -0400
+
+    Readme update
+
+[33mcommit 74c851c6a8b89d0497e378ef164c6becbfe2a155[m
+Merge: 933eef4 51380cd
+Author: Barry Clark <barry@barryclark.co>
+Date:   Mon May 19 18:08:57 2014 -0400
+
+    Merge branch 'master' of github.com:barryclark/jekyll-now
+    
+    Conflicts:
+    	README.md
+
+[33mcommit 933eef449e9d21b01c6dd4ef9d81de41aecef1a5[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Mon May 19 18:02:27 2014 -0400
+
+    Readme update
+
+[33mcommit 51380cda46724807eb0045640753150c8260864b[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Mon May 19 18:02:27 2014 -0400
+
+    Readme update
+
+[33mcommit 2e467cda4fd99707f68308c0307d62e9ddeaecf3[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Mon May 19 09:04:36 2014 -0400
+
+    Readme update: theme
+
+[33mcommit 940f79c8d00b09e92dc2bc4812cf70bcf13f7761[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Mon May 19 08:53:40 2014 -0400
+
+    Readme tweakery for life
+
+[33mcommit a9176024bef38d6daccc7e878e35ed2aff94b2af[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Mon May 19 08:52:23 2014 -0400
+
+    Fixed RSS footer link
+
+[33mcommit 9be2b1ad5756757e345158e8034e109c7e657a0c[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Mon May 19 08:48:19 2014 -0400
+
+    Readme updates
+
+[33mcommit 62075949b847739a77d765fddcf0d4bec27f4644[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Mon May 19 08:45:13 2014 -0400
+
+    Readme updates: theme screenshots and problem description
+
+[33mcommit 32e8a7578f480f0eab8949c74beef00d45700a84[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Mon May 19 08:16:53 2014 -0400
+
+    Readme update: credits update
+
+[33mcommit 4009c5019ff2d36795ce63de72c3dabcd0f74b5c[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Mon May 19 08:13:11 2014 -0400
+
+    Readme update: added a couple mor features
+
+[33mcommit c1a012bed888a9ce14465cbb574ff320e1d9d3eb[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Mon May 19 08:11:18 2014 -0400
+
+    Readme update: features
+
+[33mcommit 0c35dde55e4036bbdf0e6efab32dacf7f397582d[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Mon May 19 08:08:02 2014 -0400
+
+    More sparkle. More hearts.
+
+[33mcommit 32f9970c85f6a528a055b22ae4529815e7f3d7e8[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Mon May 19 08:06:37 2014 -0400
+
+    Less gifs in the README.md - cutting the load time down
+
+[33mcommit 4d86a8f9765336f5d85919e53b8e0b508d94d172[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Mon May 19 08:02:07 2014 -0400
+
+    Hello World post update
+
+[33mcommit 9de3c00bf5a94ce495336d7a2a3ddd1ee199454a[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Sun May 18 20:57:23 2014 -0400
+
+    Fixes Disqus integration
+
+[33mcommit 7aa77e044c0620e8d829a390b0a4f2d5ba4f17f9[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Sun May 18 19:30:00 2014 -0400
+
+    Avatar height fix
+
+[33mcommit 5046dd83a136c0bce61f0233c9744729743e58d1[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Sun May 18 19:29:33 2014 -0400
+
+    The first Emoji--yay
+
+[33mcommit d744ff59e9d686d629b4a869caea8295532e84db[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Sun May 18 19:13:54 2014 -0400
+
+    Tweaks to the header style
+
+[33mcommit f54107a5da8a77c7b812eb4a57c3a8a9da9a62cf[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Sun May 18 19:01:24 2014 -0400
+
+    Updates to Hello World post
+
+[33mcommit be6fe155f8eab1f0de70b0178c12a5bed72f3376[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Sun May 18 19:00:39 2014 -0400
+
+    Added site description to <title>
+
+[33mcommit 6b1d9f5dcaf6ae969fa0a514e4143b05479497eb[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Sun May 18 18:48:22 2014 -0400
+
+    Read More links are back in the main view
+
+[33mcommit 4d4a5eb432987e6bf7d68cbf079a41177ed1a29d[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Sun May 18 18:47:58 2014 -0400
+
+    New Hello World post for a better first run experience
+
+[33mcommit 5f64c1b6d59f54abaa05c97638dc50cd3ff4a50e[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Sat May 17 19:37:57 2014 -0400
+
+    Horrifyingly hacky <br> header fix, will fix soon
+
+[33mcommit 84e10c22fa9c055658e0684a33ff258b7f78cf7a[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Sat May 17 19:35:15 2014 -0400
+
+    Mobile breakpoint pass -- header especially
+
+[33mcommit 6de8b05f67b89e5aeddc1911006fac6fe862a8f3[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Sat May 17 18:30:56 2014 -0400
+
+    Comment updates to _config.yml
+
+[33mcommit 284cb21009f85ecb2dde5a3275134a9c60450e13[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Sat May 17 18:30:37 2014 -0400
+
+    Footer link URL fix for dribbble
+
+[33mcommit 0340970f4e3954fa307a524a5d8099795ef0f3a3[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Sat May 17 18:22:27 2014 -0400
+
+    Added sitemap.xml
+
+[33mcommit 6db3f0bccaea32ae26f60094c1e92eb240d2f9c8[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Sat May 17 18:09:58 2014 -0400
+
+    RSS feed option added
+
+[33mcommit 826df31380d0e77253f79c64c0772d91fbd0a152[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Sat May 17 17:59:11 2014 -0400
+
+    Corrected footer icon urls
+
+[33mcommit 753bea972703a99792fa72c0a0a978419e3b6738[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Sat May 17 17:48:16 2014 -0400
+
+    SVG icons for every major social network, hooked up to _config.yml
+
+[33mcommit e37987061f2b3e26a5b7396b9aaf1e5c88ca8a5c[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Sat May 17 16:35:19 2014 -0400
+
+    Full width header/footer with background colors
+
+[33mcommit 1f2db3b048fd86589c482cd2ab4d348bdd6eda4e[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Sat May 17 15:21:32 2014 -0400
+
+    Removed post dates from indexes, now only at bottom of the post
+
+[33mcommit be775473ae2ffe2cbee3f7915d3461a815560c74[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Tue May 13 08:32:27 2014 -0400
+
+    Jemoji
+
+[33mcommit 7663dd6a53bf9341eef87785504ebeb510abf286[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Tue May 13 08:11:02 2014 -0400
+
+    Removed Read More buttons
+
+[33mcommit f2d11be40ab31322cd55494b57a2045881b3b7f5[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Tue May 13 08:10:16 2014 -0400
+
+    Added baseurl
+
+[33mcommit 3c8ceb6232378f61c04a650e651cded778a3b351[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Tue May 13 08:07:05 2014 -0400
+
+    Updated syntax highlighting flag in config
+
+[33mcommit 1fd9d4d90de6aaa41c74e5cc0c64dd767fd67d84[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Mon May 12 20:55:47 2014 -0400
+
+    Remove Chrome from head
+
+[33mcommit 6162c15762d7391356f9c635f57409c482d60f06[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Wed Apr 30 18:16:38 2014 -0400
+
+    social icons for github and twitter as pngs
+
+[33mcommit 649b28276e31ec7b5074ead112fa358063debb62[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Wed Apr 30 18:16:07 2014 -0400
+
+    another sample post for theme development for now
+
+[33mcommit 5c2832e35276102902be2fd6d245f5ec8fa47131[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Wed Apr 30 09:29:05 2014 -0400
+
+    Linked blogpost headers on homepage up to posts
+
+[33mcommit ea558e66fd59d4c7804bb8f54375c8e5b18c6330[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Wed Apr 30 09:20:49 2014 -0400
+
+    Tweaks to Hello World post
+
+[33mcommit a7bbdb4cef43ad8c32fd350ade5c5aecc82724fa[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Wed Apr 30 09:18:14 2014 -0400
+
+    Neatened up masthead & added a blog description
+
+[33mcommit bf24977d08534e2c0a45c7f75b56fbc2dd5427e0[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Wed Apr 30 08:52:28 2014 -0400
+
+    Readme updates
+
+[33mcommit 6d9d683fce2452b811b99f6d00b74e89e538798d[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Wed Apr 30 08:51:27 2014 -0400
+
+    Switch to Kramdown due to rdiscount issues (also https://github.com/jekyll/jekyll/pull/1988)
+
+[33mcommit 3cc9f409e8598b68f72ee9cfb79f37ed30b166ef[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Sat Apr 26 19:15:42 2014 -0400
+
+    updated readme
+
+[33mcommit c92dc3837373210a7d154d91bd3b8f21da5fb483[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Sat Apr 26 19:10:21 2014 -0400
+
+    updated readme
+
+[33mcommit 75b46c145d57d8d215c7dca2ffa6064d7f6eddfb[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Sat Apr 26 19:04:20 2014 -0400
+
+    updated readme
+
+[33mcommit b9fd09846103643427e7fd78a01e0160b9765df8[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Sat Apr 26 18:28:24 2014 -0400
+
+    updated readme
+
+[33mcommit ef6fa04e2e91e250bc1b75808abcd20ccc464c98[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Sat Apr 26 18:20:31 2014 -0400
+
+    updated readme
+
+[33mcommit 27ed849d3711e54defd85010a0e68c473c7b76a7[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Sat Apr 26 18:12:23 2014 -0400
+
+    Added step 2 and 3 gifs to the readme
+
+[33mcommit 37917202c019069af7773a7675b8a2310b56f82e[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Sat Apr 26 17:32:28 2014 -0400
+
+    readme updates
+
+[33mcommit ba1db68c02aa7bcc9b31fce9c99a15bfd46a0b38[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Sat Apr 26 17:28:44 2014 -0400
+
+    readme updates
+
+[33mcommit 5aed4fef4bbab49ccce0d4560d50306b4bb408ed[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Sat Apr 26 17:27:33 2014 -0400
+
+    Updated readme with setup gif
+
+[33mcommit 4ae9b61f25a2782195a5a795891e12ac2e82af59[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Sat Apr 26 17:24:24 2014 -0400
+
+    Setup gif mvp
+
+[33mcommit d5c9684e4800062c3fc61e7361a093c8255d4d69[m
+Author: Barry Clark <barryclark@Barrys-MacBook-Pro.local>
+Date:   Sat Apr 26 16:50:07 2014 -0400
+
+    OMG gifs in a readme
+
+[33mcommit 1474cf3b74193732b06f240b3604b8c6263feac8[m
+Merge: 4bf8bd9 ce53f2e
+Author: Barry Clark <barryclark@Barrys-MacBook-Pro.local>
+Date:   Sat Apr 26 16:32:41 2014 -0400
+
+    Merge branch 'master' of github.com:barryclark/jekyll-now
+
+[33mcommit 4bf8bd9b8e126b5788d17178dc6055c95ac17a70[m
+Author: Barry Clark <barryclark@Barrys-MacBook-Pro.local>
+Date:   Sat Apr 26 16:29:47 2014 -0400
+
+    Config file commenting
+
+[33mcommit ce53f2ea8cc6ffe7e390ffe56905fce8ca07f2ae[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Sat Apr 19 20:42:04 2014 -0400
+
+    Some renaming from Jekyll Kickstart to Jekyll Now
+
+[33mcommit cd475dedf502318f03bcc60a6ca7670ce9411d3f[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Sun Mar 2 21:54:27 2014 -0500
+
+    README edits
+
+[33mcommit 7b63a015bd4e179f5455f53be85b90b444d49cfe[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Sun Mar 2 21:45:05 2014 -0500
+
+    README edits
+
+[33mcommit b693d3498089817e0d8aba67d140a7ac8cc4153f[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Sun Mar 2 21:43:58 2014 -0500
+
+    README edits
+
+[33mcommit f39cedf5351c1fa3b5678f1e6eb498459362e5f8[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Sun Mar 2 21:42:56 2014 -0500
+
+    README edits
+
+[33mcommit 13d5a749a8d3259587ec1de250b1e9257fec2c25[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Sun Mar 2 21:39:47 2014 -0500
+
+    Let's tell a story in the README.
+
+[33mcommit 628fcf4b16a99b5597cad9f70f94960ad05e30d6[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Sun Mar 2 11:45:51 2014 -0500
+
+    Quick readme rejiggery
+
+[33mcommit 829cfb0db1db01079e44b8b0512f9540c98a5348[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Sun Mar 2 11:44:56 2014 -0500
+
+    Added local development workflow instructions
+
+[33mcommit 5d90e3814e5045a14f2bba87e6b648c8c8bbd979[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Sun Mar 2 11:03:48 2014 -0500
+
+    Readme update: 5 minute setup
+
+[33mcommit bee001e2a96eaf2e693163e7143ba5d8a0796653[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Sun Mar 2 11:02:38 2014 -0500
+
+    Readme update: 5 minute setup
+
+[33mcommit 208d8d0913c094203148bead4b9ff2f2e86780db[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Sun Mar 2 10:53:37 2014 -0500
+
+    Removed license from readme
+
+[33mcommit 2dad2413e5f2b6aeb2460f088291001bea97148b[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Sun Mar 2 10:48:20 2014 -0500
+
+    Generalised config variable placeholders.
+
+[33mcommit 57b324011cac301ce82df2273347e64b1b4be39a[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Sun Mar 2 10:45:22 2014 -0500
+
+    Updated Hello World post to reference new image.
+
+[33mcommit fe1553b891ed31360cea33912e84216c6611e634[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Sun Mar 2 10:44:24 2014 -0500
+
+    Updated images.
+
+[33mcommit 0c51f66aac2c16a859fe8d7325cebadff17de066[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Sun Mar 2 10:41:53 2014 -0500
+
+    Don't need <header> tag around <h1> on blog posts.
+
+[33mcommit ee6bb128dc3995680364b163cead9c3b287a777f[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Sun Mar 2 10:39:17 2014 -0500
+
+    Updated Hello World post
+
+[33mcommit 3ac14ccb71c7b713ca2dcbb57d16b6519fcefca7[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Sun Mar 2 10:36:37 2014 -0500
+
+    Updated Hello World post
+
+[33mcommit 7864db4919587a73cd4f4f09ffb61972758a91d3[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Sun Mar 2 10:32:32 2014 -0500
+
+    Updated posts.
+
+[33mcommit 7e93b3bf6511c5cdcff6f0b4c1b0ee16dce59939[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Wed Feb 26 19:54:39 2014 -0500
+
+    Rename to Jekyll Kickstart
+
+[33mcommit 5c6d8e0aee80d2f03b184d90878557a5c654f96b[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Wed Feb 26 19:36:57 2014 -0500
+
+    Added CNAME placeholder
+
+[33mcommit d7be2735486453a139d41d26161eb25fa773a6f1[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Tue Feb 25 09:16:05 2014 -0500
+
+    Documentation updates
+
+[33mcommit fbe5d31ad77c009d63f3eeccff455cc3d9f7e1d3[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Tue Feb 25 09:09:15 2014 -0500
+
+    Documentation updates
+
+[33mcommit f4b5b54f1872d307af51111e7089f0a22f122a4e[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Tue Feb 25 09:02:27 2014 -0500
+
+    Added license.
+
+[33mcommit 1faf98e5fd8654f84da711498582c4a7d22346cc[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Tue Feb 25 08:47:34 2014 -0500
+
+    Readme updates
+
+[33mcommit 2c07e25d6d5ea48020bcc5e398794c555216da96[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Tue Feb 25 08:46:03 2014 -0500
+
+    Added theme screenshot
+
+[33mcommit 7c62991f87c71ee47861efea0940ab84bf813674[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Tue Feb 25 08:44:16 2014 -0500
+
+    Added theme screenshot
+
+[33mcommit 4491dce0cf832cffbe0a106ee9eaf840083f5164[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Mon Feb 24 20:25:15 2014 -0500
+
+    Documentation++
+
+[33mcommit 749ed2cc87e5ae31789280b3ec50a6813dc9d756[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Mon Feb 24 20:24:01 2014 -0500
+
+    Documentation++
+
+[33mcommit 7ed20a6d48c810315493822e04fe933a0c15f6d6[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Mon Feb 24 20:21:26 2014 -0500
+
+    Documentation++
+
+[33mcommit d1cd52c7bed098a620e8a70f3b03ee50b7d3740a[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Tue Feb 18 20:26:49 2014 -0500
+
+    Syntax highlighting.
+
+[33mcommit b1838427fc2efd7427d0229572c78d1df3333812[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Tue Feb 18 19:11:00 2014 -0500
+
+    Switched from redcarpet to rdiscount for markdown
+
+[33mcommit cbdd8d2d7b4cf450aa529aae0712ed60ef4e6231[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Tue Feb 18 19:04:35 2014 -0500
+
+    Shouting out other Jekyll starting points in the readme
+
+[33mcommit 0df8994e5f44bd42fff2302711bda9a59bcb9dcf[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Mon Feb 17 20:34:55 2014 -0500
+
+    Style Guide, and all markdown content styled
+
+[33mcommit 9931bd1ed25bf92afcc7782269281169ebceb578[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Mon Feb 17 10:07:14 2014 -0500
+
+    First pass at masthead styling.
+
+[33mcommit db4dceaba5b629fa0ff6769c448f87febb2b6af3[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Wed Feb 12 20:42:49 2014 -0500
+
+    Lots of style updates
+
+[33mcommit 6c7ba1bc57f452a537548996823111b9a724c675[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Tue Feb 11 09:12:35 2014 -0500
+
+    Deleting a couple of old files.
+
+[33mcommit a0d3ee167907e55b47def7fbfa76298a326ed8b4[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Tue Feb 11 09:11:56 2014 -0500
+
+    Homepage blog format updates.
+
+[33mcommit cbfcf3a3d186733500eb0bf45b5a416832575034[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Fri Feb 7 08:49:36 2014 -0500
+
+    Readme updates
+
+[33mcommit c3e313bd13ac8e9def3e201743053a3ce0749c6a[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Fri Feb 7 08:45:09 2014 -0500
+
+    Added blog to front page.
+
+[33mcommit a6da2babe995f4731694764297413b53e501afcf[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Fri Feb 7 08:36:03 2014 -0500
+
+    Include site name in header
+
+[33mcommit 4b9b8567614fe603f2e27424444d20bda1ed6373[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Fri Feb 7 08:35:17 2014 -0500
+
+    Decreased width
+
+[33mcommit 72ac45045456bdbbbecb38db2e62e113f22f37d4[m
+Author: Barry Clark <barry@barryclark.co>
+Date:   Thu Feb 6 19:18:00 2014 -0500
+
+    First commit of base theme.
