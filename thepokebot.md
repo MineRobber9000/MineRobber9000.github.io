@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /thepokebot/
+permalink: /pokebot/
 ---
 
 ###ThePokeBot Info
